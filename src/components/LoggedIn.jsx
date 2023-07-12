@@ -11,9 +11,9 @@ const LoggedIn = () => {
     return (
         <>
             <h1>Logged in</h1>
-            <Button />
+            <Button onClick={handleClick}/>
         </>
     )
-}
+}w
 
 export default LoggedIn

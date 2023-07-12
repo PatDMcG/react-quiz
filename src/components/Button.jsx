@@ -5,6 +5,7 @@ const Button = () => {
 
     const handleClick = () => {
         // run the toggleLogIn Prop function that hs been passed down from App.jsx
+        toggleLogIn()
     }
 
     return (
